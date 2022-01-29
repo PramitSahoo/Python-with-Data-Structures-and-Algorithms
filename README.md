@@ -2,6 +2,7 @@
 ## Python with Data Structures and algorithms
 ### Python Basics
   - 01.Flow-Chart
+    - 01.How to approach a problem
   - 02.Introduction-to-Python
   - 03.Conditionals and loops
   - 04.Patterns 1
