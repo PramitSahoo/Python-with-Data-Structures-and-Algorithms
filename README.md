@@ -16,12 +16,12 @@
     - 12.Check Number is Prime
     - 13.Largest of N numbers
     - Assignment
-     - 1.Check Triangle
-     - 2.Sum of evens
-     - 3.Find GCD
-     - 4.All primes
-     - 5.All fibonacci numbers
-     - 6.Member of fibonacci
+       - 1.Check Triangle
+       - 2.Sum of evens
+       - 3.Find GCD
+       - 4.All primes
+       - 5.All fibonacci numbers
+       - 6.Member of fibonacci
   - 02.Introduction-to-Python
   - 03.Conditionals and loops
   - 04.Patterns 1
