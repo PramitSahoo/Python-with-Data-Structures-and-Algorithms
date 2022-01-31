@@ -23,6 +23,18 @@
        - 5.All fibonacci numbers
        - 6.Member of fibonacci
   - 02.Introduction-to-Python
+    - 01.First Program in Python
+    - 02.Variables in Python
+    - 03.Data types
+    - 04.Python Numbers
+    - 05.Limit of integers
+    - 06.Arithmetic Operators
+    - 07.Taking Input
+    - 08.Code-Find average marks
+    - Assignments
+        - 1.Find X raised to power N
+        - 2.Arithmetic Progression
+        - 3.Rectangular Area
   - 03.Conditionals and loops
   - 04.Patterns 1
   - 05.Patterns 2
