@@ -36,6 +36,24 @@
         - 2.[Arithmetic Progression](https://github.com/PramitSahoo/Python-with-Data-Structures-and-Algorithms/blob/main/01.Python-Basics/02.Introduction-to-Python/Assignment.ipynb)
         - 3.[Rectangular Area](https://github.com/PramitSahoo/Python-with-Data-Structures-and-Algorithms/blob/main/01.Python-Basics/02.Introduction-to-Python/Assignment.ipynb)
   - 03.Conditionals and loops
+    - 01.Boolean datatype
+    - 02.Introduction to if else
+    - 03.Using Relational and logical Operators
+    - 04.Using else if/elif
+    - 05.Code - Check Number
+    - 06.Nested Conditionals
+    - 07.While loop
+    - 08.Code - Sum of n numbers
+    - 09.Code - Sum of even numbers
+    - 10.Primality Checking
+    - 11.Nested Loops
+    - 12.Code - Fahrenheit to Celcius
+    - Assignment
+        - 1.Calculator
+        - 2.Reverse of a number
+        - 3.Palindrome number
+        - 4.Sum of even and odd
+        - 5.Nth fibonacci number
   - 04.Patterns 1
   - 05.Patterns 2
   - 06.More on loops
