@@ -31,10 +31,10 @@
     - 06.Arithmetic Operators
     - 07.Taking Input
     - 08.Code-Find average marks
-    - Assignments
-        - 1.Find X raised to power N
-        - 2.Arithmetic Progression
-        - 3.Rectangular Area
+    - [Assignments](https://github.com/PramitSahoo/Python-with-Data-Structures-and-Algorithms/blob/main/01.Python-Basics/02.Introduction-to-Python/Assignment.ipynb)
+        - 1.[Find X raised to power N](https://github.com/PramitSahoo/Python-with-Data-Structures-and-Algorithms/blob/main/01.Python-Basics/02.Introduction-to-Python/Assignment.ipynb)
+        - 2.[Arithmetic Progression](https://github.com/PramitSahoo/Python-with-Data-Structures-and-Algorithms/blob/main/01.Python-Basics/02.Introduction-to-Python/Assignment.ipynb)
+        - 3.[Rectangular Area](https://github.com/PramitSahoo/Python-with-Data-Structures-and-Algorithms/blob/main/01.Python-Basics/02.Introduction-to-Python/Assignment.ipynb)
   - 03.Conditionals and loops
   - 04.Patterns 1
   - 05.Patterns 2
