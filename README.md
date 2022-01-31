@@ -22,7 +22,7 @@
        - 4.All primes
        - 5.All fibonacci numbers
        - 6.Member of fibonacci
-  - 02.Introduction-to-Python
+  - 02.[Introduction-to-Python](https://github.com/PramitSahoo/Python-with-Data-Structures-and-Algorithms/tree/main/01.Python-Basics/02.Introduction-to-Python)
     - 01.First Program in Python
     - 02.Variables in Python
     - 03.Data types
