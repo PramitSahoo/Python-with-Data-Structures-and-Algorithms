@@ -26,7 +26,7 @@
     - 01.[First Program in Python](https://github.com/PramitSahoo/Python-with-Data-Structures-and-Algorithms/blob/main/01.Python-Basics/02.Introduction-to-Python/01.%20First-Program-in-Python.ipynb)
     - 02.[Variables in Python](https://github.com/PramitSahoo/Python-with-Data-Structures-and-Algorithms/blob/main/01.Python-Basics/02.Introduction-to-Python/02.%20Variables.ipynb)
     - 03.[Data types](https://github.com/PramitSahoo/Python-with-Data-Structures-and-Algorithms/blob/main/01.Python-Basics/02.Introduction-to-Python/03.%20Data-Types.ipynb)
-    - 04.Python Numbers
+    - 04.[Python Numbers](https://github.com/PramitSahoo/Python-with-Data-Structures-and-Algorithms/blob/main/01.Python-Basics/02.Introduction-to-Python/04.%20Python-Numbers.ipynb)
     - 05.Limit of integers
     - 06.Arithmetic Operators
     - 07.Taking Input
