@@ -28,7 +28,7 @@
     - 03.[Data types](https://github.com/PramitSahoo/Python-with-Data-Structures-and-Algorithms/blob/main/01.Python-Basics/02.Introduction-to-Python/03.%20Data-Types.ipynb)
     - 04.[Python Numbers](https://github.com/PramitSahoo/Python-with-Data-Structures-and-Algorithms/blob/main/01.Python-Basics/02.Introduction-to-Python/04.%20Python-Numbers.ipynb)
     - 05.Limit of integers
-    - 06.Arithmetic Operators
+    - 06.[Arithmetic Operators](https://github.com/PramitSahoo/Python-with-Data-Structures-and-Algorithms/blob/main/01.Python-Basics/02.Introduction-to-Python/05.%20Arithmetic-Operators.ipynb)
     - 07.Taking Input
     - 08.Code-Find average marks
     - [Assignments](https://github.com/PramitSahoo/Python-with-Data-Structures-and-Algorithms/blob/main/01.Python-Basics/02.Introduction-to-Python/Assignment.ipynb)
