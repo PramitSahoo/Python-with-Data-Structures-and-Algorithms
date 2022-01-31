@@ -24,7 +24,7 @@
        - 6.Member of fibonacci
   - 02.[Introduction-to-Python](https://github.com/PramitSahoo/Python-with-Data-Structures-and-Algorithms/tree/main/01.Python-Basics/02.Introduction-to-Python)
     - 01.[First Program in Python](https://github.com/PramitSahoo/Python-with-Data-Structures-and-Algorithms/blob/main/01.Python-Basics/02.Introduction-to-Python/01.%20First-Program-in-Python.ipynb)
-    - 02.[Variables in Python]()
+    - 02.[Variables in Python](https://github.com/PramitSahoo/Python-with-Data-Structures-and-Algorithms/blob/main/01.Python-Basics/02.Introduction-to-Python/02.%20Variables.ipynb)
     - 03.Data types
     - 04.Python Numbers
     - 05.Limit of integers
