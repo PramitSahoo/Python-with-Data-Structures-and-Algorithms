@@ -35,7 +35,7 @@
         - 1.[Find X raised to power N](https://github.com/PramitSahoo/Python-with-Data-Structures-and-Algorithms/blob/main/01.Python-Basics/02.Introduction-to-Python/Assignment.ipynb)
         - 2.[Arithmetic Progression](https://github.com/PramitSahoo/Python-with-Data-Structures-and-Algorithms/blob/main/01.Python-Basics/02.Introduction-to-Python/Assignment.ipynb)
         - 3.[Rectangular Area](https://github.com/PramitSahoo/Python-with-Data-Structures-and-Algorithms/blob/main/01.Python-Basics/02.Introduction-to-Python/Assignment.ipynb)
-  - 03.Conditionals and loops
+  - 03.[Conditionals and loops](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/tree/main/01.Python-Basics/03.%20Conditionals%20and%20Loops)
     - 01.Boolean datatype
     - 02.Introduction to if else
     - 03.Using Relational and logical Operators
