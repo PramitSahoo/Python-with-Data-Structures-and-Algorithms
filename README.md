@@ -56,7 +56,7 @@
         - 5.Nth fibonacci number
   - 04.[Patterns 1](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/tree/main/01.Python-Basics/04.%20Patterns%201)
   - 05.[Patterns 2](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/tree/main/01.Python-Basics/05.%20Patterns%202)
-  - 06.More on loops
+  - 06.[More on loops](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/tree/main/01.Python-Basics/06.%20More%20on%20Loops)
   - 07.Functions
   - 08.Arrays and Lists
   - 09.Searching and Sorting
