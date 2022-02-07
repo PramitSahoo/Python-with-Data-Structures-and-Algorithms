@@ -79,4 +79,17 @@
   - 13.Queues
   - 14.Binary Trees - 1
   - 15.Binary Trees - 2
-  - 
+  - 16.BST-1
+  - 17.BST-2
+  - 18.Generic Trees
+  - 19.Dictionaries - Maps
+  - 20.Graphs - 1
+  - 21.Graphs - 2
+  - 22.Priority Queues - 1
+  - 23.Huffman Coding 
+  - 24.Priority Queues - 2
+  - 25.DP - 1
+  - 26.Recursion - 3
+  - 27.Backtracking
+  - 28.DP - 2
+  - 29.2048 Game
