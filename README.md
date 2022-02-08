@@ -67,7 +67,7 @@
   - 01.Recursion - 1
   - 02.Rcursion - 2
   - 03.Recursion - Assignment
-  - 04.OOPS - 1
+  - 04.[OOPS - 1](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/tree/main/02.Data-Structures-and-Algorithms/04.OOPS-1)
   - 05.OOPS - 2
   - 06.OOPS - 3
   - 07.Time Complexity Analysis
