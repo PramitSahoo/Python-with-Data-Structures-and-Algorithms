@@ -68,7 +68,14 @@
   - 02.Rcursion - 2
   - 03.Recursion - Assignment
   - 04.[OOPS - 1](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/tree/main/02.Data-Structures-and-Algorithms/04.OOPS-1)
-      - 01. Intro to OOPS
+      - Intro to OOPS
+      - Classes and Objects
+      - Instance Attributes
+      - Init method
+      - Fraction Class - 1
+      - Fraction Class - 2
+      - Fraction Class - 3
+      - Complex Number Class
   - 05.OOPS - 2
   - 06.OOPS - 3
   - 07.Time Complexity Analysis
