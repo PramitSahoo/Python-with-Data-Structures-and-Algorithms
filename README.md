@@ -68,14 +68,14 @@
   - 02.Rcursion - 2
   - 03.Recursion - Assignment
   - 04.[OOPS - 1](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/tree/main/02.Data-Structures-and-Algorithms/04.OOPS-1)
-      - Intro to OOPS
-      - Classes and Objects
-      - Instance Attributes
-      - Init method
-      - Fraction Class - 1
-      - Fraction Class - 2
-      - Fraction Class - 3
-      - Complex Number Class
+      - [Intro to OOPS]()
+      - [Classes and Objects](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/blob/main/02.Data-Structures-and-Algorithms/04.OOPS-1/01.Classes-and-objects.ipynb)
+      - [Instance Attributes](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/blob/main/02.Data-Structures-and-Algorithms/04.OOPS-1/02.Instance-attributes.ipynb)
+      - [Init method](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/blob/main/02.Data-Structures-and-Algorithms/04.OOPS-1/03.Init-method.ipynb)
+      - [Fraction Class - 1](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/blob/main/02.Data-Structures-and-Algorithms/04.OOPS-1/05.Fraction-Class-1.ipynb)
+      - [Fraction Class - 2](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/blob/main/02.Data-Structures-and-Algorithms/04.OOPS-1/06.Fraction-class-2.ipynb)
+      - [Fraction Class - 3](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/blob/main/02.Data-Structures-and-Algorithms/04.OOPS-1/07.Fraction-class-3.ipynb)
+      - [Complex Number Class](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/blob/main/02.Data-Structures-and-Algorithms/04.OOPS-1/08.Complex-Number-Class.ipynb)
   - 05.OOPS - 2
   - 06.OOPS - 3
   - 07.Time Complexity Analysis
