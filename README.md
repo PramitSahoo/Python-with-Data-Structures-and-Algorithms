@@ -76,7 +76,7 @@
       - [Fraction Class - 2](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/blob/main/02.Data-Structures-and-Algorithms/04.OOPS-1/06.Fraction-class-2.ipynb)
       - [Fraction Class - 3](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/blob/main/02.Data-Structures-and-Algorithms/04.OOPS-1/07.Fraction-class-3.ipynb)
       - [Complex Number Class](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/blob/main/02.Data-Structures-and-Algorithms/04.OOPS-1/08.Complex-Number-Class.ipynb)
-  - 05.OOPS - 2
+  - 05.[OOPS - 2](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/tree/main/02.Data-Structures-and-Algorithms/05.OOPS-2)
   - 06.OOPS - 3
   - 07.Time Complexity Analysis
   - 08.Space Complexity Analysis
