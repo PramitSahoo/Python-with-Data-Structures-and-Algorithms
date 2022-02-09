@@ -77,6 +77,15 @@
       - [Fraction Class - 3](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/blob/main/02.Data-Structures-and-Algorithms/04.OOPS-1/07.Fraction-class-3.ipynb)
       - [Complex Number Class](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/blob/main/02.Data-Structures-and-Algorithms/04.OOPS-1/08.Complex-Number-Class.ipynb)
   - 05.[OOPS - 2](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/tree/main/02.Data-Structures-and-Algorithms/05.OOPS-2)
+      - [Basics of Inheritance](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/blob/main/02.Data-Structures-and-Algorithms/05.OOPS-2/01.Basics-of-inheritance.ipynb)
+      - [Inheritance and Private Members](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/blob/main/02.Data-Structures-and-Algorithms/05.OOPS-2/02.Inheritance-and-private-members.ipynb)
+      - [Inheritance Continued](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/blob/main/02.Data-Structures-and-Algorithms/05.OOPS-2/03.Inheritance-continued.ipynb)
+      - [Polymorphism](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/blob/main/02.Data-Structures-and-Algorithms/05.OOPS-2/04.Polymorphism.ipynb)
+      - [Protected Members](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/blob/main/02.Data-Structures-and-Algorithms/05.OOPS-2/05.Protected-members.ipynb)
+      - [Object Class](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/blob/main/02.Data-Structures-and-Algorithms/05.OOPS-2/06.Object-Class.ipynb)
+      - [Multiple Inheritance](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/blob/main/02.Data-Structures-and-Algorithms/05.OOPS-2/07.Multiple-inheritance.ipynb)
+      - [Method Resolution Order](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/blob/main/02.Data-Structures-and-Algorithms/05.OOPS-2/08.Method-Resolution-order.ipynb)
+      - [Operator Overloading](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/blob/main/02.Data-Structures-and-Algorithms/05.OOPS-2/09.Operator-overloading.ipynb)
   - 06.OOPS - 3
   - 07.Time Complexity Analysis
   - 08.Space Complexity Analysis
