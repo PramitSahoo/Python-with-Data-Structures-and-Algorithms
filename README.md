@@ -87,16 +87,16 @@
       - [Method Resolution Order](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/blob/main/02.Data-Structures-and-Algorithms/05.OOPS-2/08.Method-Resolution-order.ipynb)
       - [Operator Overloading](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/blob/main/02.Data-Structures-and-Algorithms/05.OOPS-2/09.Operator-overloading.ipynb)
   - 06.OOPS - 3
-      - 01. [Abstract Classes]
-      - 02. [Abstract Classes - Code](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/blob/main/02.Data-Structures-and-Algorithms/06.OOPS-3/01.Abstract-classes-code.ipynb)
-      - 03. [Abstract Classes - Continued](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/blob/main/02.Data-Structures-and-Algorithms/06.OOPS-3/02.Abstract-classes-continued.ipynb)
-      - 04. [Errors and Exceptions](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/blob/main/02.Data-Structures-and-Algorithms/06.OOPS-3/03.Errors-and-Exceptions.ipynb)
-      - 05. [Intro to Exception Handling](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/blob/main/02.Data-Structures-and-Algorithms/06.OOPS-3/04.Intro-to-exception-handling.ipynb)
-      - 06. [Handling multiple Exception](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/blob/main/02.Data-Structures-and-Algorithms/06.OOPS-3/05.Handling-multiple-exceptions.ipynb)
-      - 07. [Custom Exceptions](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/blob/main/02.Data-Structures-and-Algorithms/06.OOPS-3/06.Custom-Exceptions.ipynb)
-      - 08. [Except Functionality](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/blob/main/02.Data-Structures-and-Algorithms/06.OOPS-3/07.Except-Functionality.ipynb)
-      - 09. [Else and Finally](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/blob/main/02.Data-Structures-and-Algorithms/06.OOPS-3/08.Else-and-finally.ipynb)
-      - 10. [More about Finally](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/blob/main/02.Data-Structures-and-Algorithms/06.OOPS-3/09.More-about-finally.ipynb)
+      - Abstract Classes
+      - [Abstract Classes - Code](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/blob/main/02.Data-Structures-and-Algorithms/06.OOPS-3/01.Abstract-classes-code.ipynb)
+      - [Abstract Classes - Continued](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/blob/main/02.Data-Structures-and-Algorithms/06.OOPS-3/02.Abstract-classes-continued.ipynb)
+      - [Errors and Exceptions](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/blob/main/02.Data-Structures-and-Algorithms/06.OOPS-3/03.Errors-and-Exceptions.ipynb)
+      - [Intro to Exception Handling](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/blob/main/02.Data-Structures-and-Algorithms/06.OOPS-3/04.Intro-to-exception-handling.ipynb)
+      - [Handling multiple Exception](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/blob/main/02.Data-Structures-and-Algorithms/06.OOPS-3/05.Handling-multiple-exceptions.ipynb)
+      - [Custom Exceptions](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/blob/main/02.Data-Structures-and-Algorithms/06.OOPS-3/06.Custom-Exceptions.ipynb)
+      - [Except Functionality](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/blob/main/02.Data-Structures-and-Algorithms/06.OOPS-3/07.Except-Functionality.ipynb)
+      - [Else and Finally](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/blob/main/02.Data-Structures-and-Algorithms/06.OOPS-3/08.Else-and-finally.ipynb)
+      - [More about Finally](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/blob/main/02.Data-Structures-and-Algorithms/06.OOPS-3/09.More-about-finally.ipynb)
   - 07.Time Complexity Analysis
   - 08.Space Complexity Analysis
   - 09.Time Complexity Improvement
