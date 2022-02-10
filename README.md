@@ -86,7 +86,7 @@
       - [Multiple Inheritance](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/blob/main/02.Data-Structures-and-Algorithms/05.OOPS-2/07.Multiple-inheritance.ipynb)
       - [Method Resolution Order](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/blob/main/02.Data-Structures-and-Algorithms/05.OOPS-2/08.Method-Resolution-order.ipynb)
       - [Operator Overloading](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/blob/main/02.Data-Structures-and-Algorithms/05.OOPS-2/09.Operator-overloading.ipynb)
-  - 06.OOPS - 3
+  - 06.[OOPS - 3](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/tree/main/02.Data-Structures-and-Algorithms/06.OOPS-3)
       - Abstract Classes
       - [Abstract Classes - Code](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/blob/main/02.Data-Structures-and-Algorithms/06.OOPS-3/01.Abstract-classes-code.ipynb)
       - [Abstract Classes - Continued](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/blob/main/02.Data-Structures-and-Algorithms/06.OOPS-3/02.Abstract-classes-continued.ipynb)
