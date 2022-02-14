@@ -98,6 +98,15 @@
       - [Else and Finally](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/blob/main/02.Data-Structures-and-Algorithms/06.OOPS-3/08.Else-and-finally.ipynb)
       - [More about Finally](https://github.com/pramit026/Python-with-Data-Structures-and-Algorithms/blob/main/02.Data-Structures-and-Algorithms/06.OOPS-3/09.More-about-finally.ipynb)
   - 07.Time Complexity Analysis
+      - What is Time Complexity ?
+      - Experimental Analysis
+      - Theoretical Analysis
+      - Big O notation - Iterative Linear
+      - Theoretical Analysis - Iterative Non Linear
+      - Theoretical Analysis Recursive
+      - Theoretical Analysis - Binary Search
+      - Merge Sort Time Complexity
+      - Fibonacci Time Complexity Analysis
   - 08.Space Complexity Analysis
   - 09.Time Complexity Improvement
   - 10.Linked List - 1
