@@ -113,6 +113,10 @@
       - Merge Sort Space Complexity Analysis
       - Analysis of Quick Sort
   - 09.Time Complexity Improvement
+      - Power of a number
+      - Array intersection
+      - Array intersection optimal solution
+      - Equilibrium Index
   - 10.Linked List - 1
   - 11.Linked List - 2
   - 12.Stacks
