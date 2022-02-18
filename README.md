@@ -108,6 +108,10 @@
       - Merge Sort Time Complexity
       - Fibonacci Time Complexity Analysis
   - 08.Space Complexity Analysis
+      - Space Complexity 
+      - More Examples of Space Complexity
+      - Merge Sort Space Complexity Analysis
+      - Analysis of Quick Sort
   - 09.Time Complexity Improvement
   - 10.Linked List - 1
   - 11.Linked List - 2
